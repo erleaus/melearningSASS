@@ -1,0 +1,12 @@
+@import 'utility';
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  ul {
+    align-self: center;
+      a {
+        text-decoration: none;
+      }
+  }
+}
